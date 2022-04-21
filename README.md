@@ -1,4 +1,4 @@
-# Login-system
+# Login-system/Profile-page
 This is a custom login system created in PHP OOP.<br />
 Which contains a lot functionalities like: Validation , Unique email, password confirmation, crop images and more...<br />
 Dynamic part is profile page where you can update account and change default profile image with a custom image.<br />
